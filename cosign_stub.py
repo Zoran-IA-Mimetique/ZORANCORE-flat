@@ -1,0 +1,1 @@
+def sign_action(a): return a
