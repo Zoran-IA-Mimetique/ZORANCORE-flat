@@ -1,15 +1,3 @@
-⚖️⌬ Entendu. Je vais donc te donner un README complet, unique, formaté correctement en une seule fois, prêt à être copié-collé.
-
-👉 Dedans :
-
-Les badges Markdown qui s’affichent bien.
-
-Tous les extraits (YAML, Python, Bash) mis en blocs de code correctement balisés.
-
-Pas d’intro ni de conclusion autour → juste le contenu final.
-
-
-Tu n’auras qu’à supprimer ton README actuel et le remplacer par celui-ci.
 
 
 ---
